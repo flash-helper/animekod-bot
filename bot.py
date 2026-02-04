@@ -19,7 +19,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.enums import ParseMode
 
 # ==================== КОНФИГУРАЦИЯ ====================
-BOT_TOKEN = "8435441500:AALJQOmKBOW6zzrngC60KwmR3BhgyHPWYoY"
+BOT_TOKEN = "8435441500:AAE_Hq5LLvm2YwQ47b5K2kcrVIfqyJSTInQ"
 ADMIN_ID = 1736344274
 
 if os.path.exists('/data'):
